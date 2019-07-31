@@ -1,4 +1,4 @@
-# SeizAlert - June 2018 Hackathon
+# SeizAlert
 
 An android application designed to help people who suffer from seizures.
 
